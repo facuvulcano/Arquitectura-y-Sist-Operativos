@@ -1,0 +1,4 @@
+1- Cambiar el nombre del archivo en el archivo tasks.json
+2- Desde la terminal entrar a la carperta Tutoriales, con cd Tutoriales
+3- Desde la terminal compilar el archivo: gcc nombre_archivo.c -o nombre_archivo
+4- Desde la terminal, ejecutar el archivo: ./nombre_archivo

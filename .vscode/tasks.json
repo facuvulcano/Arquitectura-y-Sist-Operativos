@@ -6,9 +6,9 @@
             "type": "shell",
             "command": "gcc",
             "args": [
-                "cast_signed.c",
+                "hello_world.c",
                 "-o",
-                "cast_signed"
+                "hello_world"
             ],
             "group": {
                 "kind": "build",
@@ -20,7 +20,7 @@
         {
             "label": "run",
             "type": "shell",
-            "command": "./cast_signed",
+            "command": "./hello_world",
             "group": {
                 "kind": "test",
                 "isDefault": true
