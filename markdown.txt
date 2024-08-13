@@ -1,0 +1,22 @@
+**Este texto está en negrita**
+
+*Este texto está en itálica*
+
+***Este texto está en negrita e itálica***
+
+~~Este texto está tachado~~
+
+`Este es un código en línea`
+
+
+divisores:
+---
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
+
+
